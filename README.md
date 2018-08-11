@@ -1,3 +1,3 @@
 # blog.michaelbrooks.ca
 
-> Basic redirect to medium/@mwbrooks
+> Page redirection to [medium.com/@mwbrooks](https://medium.com/@mwbrooks)
